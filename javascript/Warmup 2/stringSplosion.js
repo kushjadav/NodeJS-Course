@@ -6,4 +6,3 @@ function stringSplosion(str){
   }
   return a;
 }
-}
